@@ -2,7 +2,7 @@
 R script for cleaning IAT data (2002-2013) from Project Implicit with select variables
 
 ## Contents
-* "import and tidy iat.R": script for unzipping IAT .sav files from Project Implicit (yeaars 2002-2013), selecting a subset of variables, and cleaning data as per Project Implicit exclusionary criteria
+* "import and tidy iat.R": script for unzipping IAT .sav files from Project Implicit (years 2002-2013), selecting a subset of variables, and cleaning data as per Project Implicit exclusionary criteria
 * "state_info.csv": spreadsheet containing state-level names, abbreviations, and numbers to facilitate state-level analyses
 
 ## Notes
